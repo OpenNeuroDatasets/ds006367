@@ -20,5 +20,6 @@
             "Name": "bids-matlab-tools",
             "Version": "10.2"
         }
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006367.v1.0.0"
 }
